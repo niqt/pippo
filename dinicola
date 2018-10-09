@@ -5,7 +5,7 @@ print("Hello")
 import
 
 func dum() {
-	print("CIAO")
+	print("CIAO MONDO")
 }
 
 
