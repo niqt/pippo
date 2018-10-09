@@ -2,3 +2,10 @@ func mattia() {
 print("Hello")
 }
 
+import
+
+func dum() {
+	print("CIAO")
+}
+
+
